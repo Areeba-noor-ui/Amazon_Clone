@@ -17,7 +17,7 @@ The purpose of this project is to practice frontend layout, styling, and respons
 - Flexbox and basic responsiveness
 - Organizing files in a real project
 ## Live Demo
-https://areeba-noor-ui.github.io/Project1/
+ https://areeba-noor-ui.github.io/Amazon_Clone/
 ## Disclaimer
 This project is created for **educational purposes only**.  
 Amazon is a registered trademark, and this project is **not affiliated with Amazon**.
